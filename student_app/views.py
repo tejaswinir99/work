@@ -12,7 +12,7 @@ from django.urls import reverse
 
 from studen_app.EmailBackEnd import EmailBackEnd
 from student_app.models import CustomUser, Courses, SessionYearModel
-from student_system import settings
+from student1 import settings
 
 
 def showDemoPage(request):
